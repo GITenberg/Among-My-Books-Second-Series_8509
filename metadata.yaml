@@ -1,0 +1,31 @@
+_repo: Among-My-Books-Second-Series_8509
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wordsworth, William, 1770-1850'
+- !lcsh 'Keats, John, 1795-1821'
+- !lcsh 'Milton, John, 1608-1674'
+- !lcc 'PS'
+- !lcsh 'Spenser, Edmund, 1552?-1599'
+- !lcsh 'Dante Alighieri, 1265-1321'
+tableOfContents: Dante -- Spenser -- Wordsworth -- Milton -- Keats.
+title: Among My Books. Second Series
+url: http://www.gutenberg.org/ebooks/8509
